@@ -1,0 +1,8 @@
+asyncio 
+requests
+selenium
+beautifulsoup4
+pandas
+lxml
+notebook
+jupyter
